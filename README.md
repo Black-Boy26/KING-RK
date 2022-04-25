@@ -2,6 +2,6 @@
 
 $ git clone https://github.com/Black-Boy26/KING-RK
 
-$ Cd KING-RK
+$ cd KING-RK
 
 $ python RK.py
